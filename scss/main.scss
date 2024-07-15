@@ -1,0 +1,15 @@
+$color--balck: #000;
+$color--white: #fff;
+
+body {
+  background-color: $color--balck;
+  h1 {
+    color: $color--white;
+    font-size: 40px;
+    display: flex;
+  }
+  img {
+    width: 500px;
+    height: 500px;
+  }
+}
